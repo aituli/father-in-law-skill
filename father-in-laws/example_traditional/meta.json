@@ -1,0 +1,13 @@
+{
+  "name": "王建国",
+  "slug": "example_traditional",
+  "type": "传统威严型",
+  "type_en": "Traditional Authoritative",
+  "created_at": "2026-04-10",
+  "tags": ["家长权威", "不善表达", "重面子", "威严"],
+  "interaction_scenes": ["初次见面", "过年过节", "酒桌饭局", "家庭矛盾", "日常生活"],
+  "age": 68,
+  "occupation": "退休工程师",
+  "location": "北京",
+  "description": "话不多但很有分量，让你有点怕"
+}

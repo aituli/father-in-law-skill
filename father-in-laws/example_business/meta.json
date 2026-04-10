@@ -1,0 +1,13 @@
+{
+  "name": "钱富贵",
+  "slug": "example_business",
+  "type": "经商精明型",
+  "type_en": "Business-Savvy",
+  "created_at": "2026-04-10",
+  "tags": ["精明", "务实", "利益导向", "会算计"],
+  "interaction_scenes": ["初次见面", "过年过节", "酒桌饭局", "家庭矛盾", "日常生活"],
+  "age": 66,
+  "occupation": "退休企业主",
+  "location": "深圳",
+  "description": "喜欢谈赚钱、试探你的条件"
+}
