@@ -24,7 +24,7 @@ Trying to act proper, but nervously calling him "boss" instead of "uncle"?<br>
 
 [Installation](#installation) · [Usage](#usage) · [Ten Types](#ten-father-in-law-types) · [Examples](#real-scenario-examples)
 
-[**中文**](README_ZH.md)
+[**中文**](README.md)
 
 </div>
 
